@@ -1,5 +1,5 @@
 ### What is this ?
-* A rip-off version of [Avalon](https://github.com/getavalon/core)
+A rip-off version of [Avalon](https://github.com/getavalon/core)
 
 ### Purpose
 For animation pipeline learning and built it with Pyblish Plugins, the final goal is transition to Avalon.

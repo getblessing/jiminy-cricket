@@ -1,5 +1,6 @@
 ### What is this ?
-A rip-off of [Avalon](https://github.com/getavalon/core).
+A simplified version of [Avalon](https://github.com/getavalon/core)
+A advanced version of [Pyblish-starter](https://github.com/pyblish/pyblish-starter)
 
 ### Purpose
 For animation pipeline learning and built it with *Plugins* under Avalon-like framework.
@@ -11,7 +12,6 @@ The final goal for using this is transition to Avalon.
 * Launcher
 * Other DCC hosts except Autodesk Maya
 * The concept of *Work Area*
-* Default using Pyblish-lite
 
 ### Usage
 Not ready for prime time yet.

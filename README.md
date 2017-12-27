@@ -1,14 +1,17 @@
 ### What is this ?
-A rip-off version of [Avalon](https://github.com/getavalon/core)
+A rip-off of [Avalon](https://github.com/getavalon/core).
 
 ### Purpose
-For animation pipeline learning and built it with Pyblish Plugins, the final goal is transition to Avalon.
+For animation pipeline learning and built it with *Plugins* under Avalon-like framework.
+The final goal for using this is transition to Avalon.
 
-### Status
-* No database used (might use TinyDB in the future)
-* Work without Avalon Launcher
-* Only for Autodesk Maya
-* Dose not involve the concept of `Work Area`
+### Omitted
+* Database (might use TinyDB in the future)
+* Command-line interface
+* Launcher
+* Other DCC hosts except Autodesk Maya
+* The concept of *Work Area*
+* Default using Pyblish-lite
 
 ### Usage
-TBC..
+Not ready for prime time yet.

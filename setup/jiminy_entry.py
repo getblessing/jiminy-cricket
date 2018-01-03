@@ -41,7 +41,7 @@ def parse_settings():
                 PYBLISH_BASE_PATH,
                 PYBLISH_QML_PATH,
                 PYBLISH_QML_PYQT5,
-                os.environ["PYTHONPATH"]
+                os.environ.get("PYTHONPATH", "")
             ]
         )
     else:
